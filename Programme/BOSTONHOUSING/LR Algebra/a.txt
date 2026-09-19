@@ -1,0 +1,11 @@
+S0: je größer desto geringer der Preis; Mittelbestimmung
+S2: je größer desto geringer der Preis; Grobbestimmung
+S5: je größer desto größer der Preis; Nutzbar für alles über 5, jedoch einige Ausreißer; Feinbestimmung
+S9: Je geringer desto größer der Preis; Grobbestimmung
+S10: Je geringer desto größer der Preis; Grobbestimmung
+S11: je größer desto größer der Preis; Besonders gut im unteren Drittel; Mittelbestimmung
+S12: je größer desto geringer der Preis; Feinbestimmung
+
+Grobbestimmung: S2;S9;S10
+Mittelbestimmung: S0;S11
+Feinbestimmung: S5;S11
